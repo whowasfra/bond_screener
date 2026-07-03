@@ -1,0 +1,13 @@
+pandas==2.3.3
+numpy
+pandas-datareader
+setuptools
+matplotlib
+seaborn
+yfinance
+fredapi
+dotenv
+scikit-learn
+torch --index-url https://download.pytorch.org/whl/cpu # PyTorch CPU-only version
+optuna
+shap
