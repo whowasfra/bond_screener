@@ -1,2 +1,7 @@
-dataset
-
+data
+moirari_venv
+.venv
+.env
+paper
+.vscode/
+*.code-workspace
