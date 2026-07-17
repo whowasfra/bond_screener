@@ -25,7 +25,7 @@ The code is structured sequentially into 6 Jupyter Notebooks to strictly respect
 
 To run the code, you need Python 3.9+ to install the requirements:
 * `requirements.txt`: For 1, 2, 3, 5 notebooks.
-* `requirements_moirai.txt`: For 1, 2, 3, 5 notebooks.
+* `requirements_moirai.txt`: For notebook 04.
 
 *Note: To run Notebook 04, the `gluonts` and `uni2ts` libraries are required, thy cause some inconsistency in the installation of pythorch, so is highly suggested to create a separate enviroment for just this notebook.*
 
